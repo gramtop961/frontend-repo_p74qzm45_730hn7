@@ -1,4 +1,4 @@
-import { Instagram, Linkedin, Facebook, MessageCircle, Send, Users, Reddit } from 'lucide-react';
+import { Instagram, Linkedin, Facebook, MessageCircle, Send, Users, Globe } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -18,7 +18,7 @@ export default function Footer() {
               <a aria-label="Facebook" href="#" className="rounded-md p-2 text-blue-600 transition hover:bg-blue-50 dark:hover:bg-blue-900/20"><Facebook size={18} /></a>
               <a aria-label="LinkedIn" href="#" className="rounded-md p-2 text-sky-700 transition hover:bg-sky-50 dark:hover:bg-sky-900/20"><Linkedin size={18} /></a>
               <a aria-label="Telegram" href="#" className="rounded-md p-2 text-sky-500 transition hover:bg-sky-50 dark:hover:bg-sky-900/20"><Send size={18} /></a>
-              <a aria-label="Reddit" href="#" className="rounded-md p-2 text-orange-600 transition hover:bg-orange-50 dark:hover:bg-orange-900/20"><Reddit size={18} /></a>
+              <a aria-label="Forum" href="#" className="rounded-md p-2 text-orange-600 transition hover:bg-orange-50 dark:hover:bg-orange-900/20"><Globe size={18} /></a>
             </div>
           </div>
 
