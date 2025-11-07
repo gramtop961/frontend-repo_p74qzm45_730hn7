@@ -11,7 +11,7 @@ export default function Hero() {
       <div className="relative h-[520px] w-full">
         <Spline
           style={{ width: '100%', height: '100%' }}
-          scene="https://prod.spline.design/1J0S8kQkz8MggkUG/scene.splinecode"
+          scene="https://prod.spline.design/EF7JOSsHLk16Tlw9/scene.splinecode"
         />
         <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-white/40 via-white/20 to-white dark:from-neutral-900/40 dark:via-neutral-900/20 dark:to-neutral-900" />
       </div>
